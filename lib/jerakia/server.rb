@@ -17,7 +17,7 @@ class Jerakia
 
       def default_config
         {
-        'bind' => '127.0.0.1',
+        'bind' => '0.0.0.0',
         'port' => '9843',
         'token_ttl' => 300,
         }
